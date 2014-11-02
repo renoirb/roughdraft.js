@@ -1,6 +1,6 @@
 {
   "name": "roughdraft",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Quickly create interactive HTML mockups with minimal markup, no server-side code, and without sourcing lorem ipsum text/image generators",
   "homepage": "http://ndreckshage.github.com/roughdraft.js/",
   "dependencies": {
